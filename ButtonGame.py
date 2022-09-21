@@ -5,6 +5,7 @@ import json
 
 class Game(Tk):
     def __init__(self):
+        # Initiallize the Tk class 
         super().__init__()
 
         # grid size and 'shadow' color definitions
